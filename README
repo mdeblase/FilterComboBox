@@ -1,0 +1,4 @@
+FilterComboBox
+
+Simple class that extends JComboBox so an editable combo box can have the
+list of items filtered based on the text the user types
